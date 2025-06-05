@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Disassembling Bomberman
+title:      How to not Attend a Game Jam
 date:       2025-06-03 21:32:20 +0300
-tags:       disassembly nes retro
+tags:       gamedev gamejam unity
 ---
 Lorem ipsum

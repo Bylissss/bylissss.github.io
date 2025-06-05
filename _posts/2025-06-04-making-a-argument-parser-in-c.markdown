@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Disassembling Bomberman
+title:      Making a Argument Parser in C
 date:       2025-06-03 21:32:20 +0300
-tags:       disassembly nes retro
+tags:       c argument_parser
 ---
 Lorem ipsum
